@@ -1,4 +1,4 @@
-# Sukua Sesssions
+# Su Sessoes
 
 - É um pequeno projecto, tentando reproduzir o sessions do PHP utilizando base de dados.
 
